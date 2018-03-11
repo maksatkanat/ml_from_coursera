@@ -1,2 +1,2 @@
 # ml_from_coursera
-This is my  decisions for ML Tasks. Not for cheating. If you have a questions, contact me.
+This is my solutions of Machine Learning Tasks. Not for cheating, just for advise. If you have questions please do not hesitate to contact me.
